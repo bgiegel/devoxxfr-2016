@@ -5,3 +5,4 @@ Mes notes à propos de devoxx France 2016
 
 [Pourquoi il ne suffira pas de faire du http 2.0 pour faire des applications performantes] (conferences/http2-performances.md)
 
+[Typescript, typer pour mieux coder] (conferences/typescript.md)
