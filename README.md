@@ -14,3 +14,11 @@ Mes notes à propos de devoxx France 2016
 [ES6+ maintenant !] (conferences/es6-plus.md)
 
 [Just enough app server] (conferences/just-enough-app-server.md)
+
+[Retour sur Java 8] (conferences/retour_java8.md)
+
+[Get Hip with JHipster: Spring Boot + AngularJS + Bootstrap] (conferences/jhipster.md)
+
+[Modular Monolith] (conferences/modular_monolith.md)
+
+[Mon Appli est secure ! Enfin je crois...] (conferences/appli_secure.md)
