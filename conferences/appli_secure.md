@@ -1,0 +1,3 @@
+# Mon Appli est secure ! Enfin je crois...
+
+J'avais déjà assisté à une présentation des ces 2 speakers. Et j'avoue que les 2 font la paire. Ils sont drôle et on apprends plein de choses. Je n'ai quasiment pas pris de notes car c'était principalement une démonstration de l'outils qu'ils ont créé et qui à l'air très intéressant. Il s'agit de "Highway to Urhell". C'est un agent Java permettant de lister les points d'entrée d'une application au Runtime.
