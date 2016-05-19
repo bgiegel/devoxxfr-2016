@@ -22,3 +22,12 @@ Mes notes à propos de devoxx France 2016
 [Modular Monolith] (conferences/modular_monolith.md)
 
 [Mon Appli est secure ! Enfin je crois...] (conferences/appli_secure.md)
+
+[OutOfMemoryException : Quel est le coût des objets en Java ?] (conferences/cout_objets_java.md)
+
+[Le design d'API REST, un débat sans fin ?] (conferences/design_api_rest.md)
+
+[Hibernate tu connais... Mais en fait tu connais pas.](conferences/hibernate.md)
+[Jigsaw est là pour nous sauver](conferences/jigsaw.md)
+
+[La voiture connectée - un IoT au potentiel immense](conferences/voiture_connectee.md)
